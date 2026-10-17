@@ -75,3 +75,5 @@ export function searchProducts () {
   }
 }
 // vuln-code-snippet end unionSqlInjectionChallenge dbSchemaChallenge
+// prueba de revisión
+
