@@ -78,3 +78,4 @@ export function searchProducts () {
 // prueba paso 1
 // prueba paso 2
 // prueba paso 3
+// prueba paso 4 
