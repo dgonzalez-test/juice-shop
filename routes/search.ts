@@ -77,3 +77,4 @@ export function searchProducts () {
 // vuln-code-snippet end unionSqlInjectionChallenge dbSchemaChallenge
 // prueba paso 1
 // prueba paso 2
+// prueba paso 3
